@@ -31,7 +31,7 @@ class HomeScreen extends StatelessWidget {
         child: Container(
           width: 350,
           height: 400,
-          child: Image.asset('assets\images\image_1.jpg')),
+          child: Image.asset('assets/images/image_1.jpg')),
       )
     );
   }
